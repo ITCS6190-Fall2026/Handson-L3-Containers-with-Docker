@@ -44,8 +44,7 @@ docker compose down
 
 ## What you submit
 
-Create your **own private repository**, add the instructor and the TAs as collaborators
-(GitHub usernames are on Canvas), and put in it:
+Create your **repository public**, and put in it:
 
 - `app.py`, `Dockerfile`, `compose.yaml`, `requirements.txt`
 - `README.md` with your execution steps and what you learned, using fenced code blocks
