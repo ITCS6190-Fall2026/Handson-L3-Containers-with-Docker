@@ -10,4 +10,4 @@ of the class. Expect 60 to 75 minutes. Work individually.
 
 ## The handout
 
-`Hands-On-L3.pdf` in this repository has the full instructions. Read it first.
+`H3_itcs6190_v6.0.pdf` in this repository has the full instructions. Read it first.
